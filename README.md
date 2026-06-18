@@ -1,11 +1,5 @@
 # Hola, soy Brandon Giovanni Castañón García 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Unity+%26+VR+Developer;Always+Learning+New+Technologies" />
-</p>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=250&section=header&text=Brandon%20Giovanni&fontSize=50&fontColor=ffffff)
-
 <h3 align="center">
 🚀 Full Stack Developer • AI Enthusiast • Unity & VR Developer
 </h3>
