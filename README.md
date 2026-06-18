@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hola, soy Brandon Giovanni Castañón García 👋
 
-<!--
-**Giovapolis/Giovapolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de Software
+🎮 Desarrollo de aplicaciones con Unity
+🤖 Inteligencia Artificial y Automatización
+🌐 Desarrollo Web Full Stack
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- Unity
+- JavaScript
+- PHP
+- Bootstrap
+- MySQL
+- Git
+- Docker
+
+## 📌 Proyectos Destacados
+
+### Sistema Web Personal
+Portal profesional con frontend y backend.
+
+### Bot de WhatsApp con IA
+Automatización de conversaciones mediante IA.
+
+### Proyecto de Realidad Virtual
+Aplicación VR desarrollada en Unity.
+
+## 📫 Contacto
+
+- LinkedIn: ...
+- Portafolio: ...
+- Correo: ...
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovapolis&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovapolis&layout=compact&theme=tokyonight)
