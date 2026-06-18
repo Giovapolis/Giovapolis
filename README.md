@@ -1,55 +1,95 @@
 # Hola, soy Brandon Giovanni Castañón García 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=250&section=header&text=Brandon%20Giovanni&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=250&section=header&text=Brandon%20Giovanni&fontSize=50&fontColor=ffffff)
 
-💻 Desarrollador de Software
-🎮 Desarrollo de aplicaciones con Unity
-🤖 Inteligencia Artificial y Automatización
-🌐 Desarrollo Web Full Stack
+<h3 align="center">
+🚀 Full Stack Developer • AI Enthusiast • Unity & VR Developer
+</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovapolis&show_icons=true&theme=tokyonight)
+<p align="center">
+💻 Desarrollador Full Stack apasionado por convertir ideas en soluciones a través del código, explorando constantemente tecnologías como Inteligencia Artificial, Automatización, Unity y Realidad Virtual. 🚀
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovapolis&layout=compact&theme=tokyonight)
+---
 
-## 🚀 Tecnologías
+## 🛠️ Tecnologías y Herramientas
 
-- C#
-- Unity
-- JavaScript
-- PHP
-- Bootstrap
-- MySQL
-- Git
-- Docker
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" />
+</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+</p>
 
-## 📌 Proyectos Destacados
+---
 
-### Sistema Web Personal
-Portal profesional con frontend y backend.
+## 📊 GitHub Stats
 
-### Bot de WhatsApp con IA
-Automatización de conversaciones mediante IA.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovapolis&show_icons=true&theme=tokyonight" />
+</p>
 
-### Proyecto de Realidad Virtual
-Aplicación VR desarrollada en Unity.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovapolis&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Giovapolis&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Giovapolis&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🤖 Bot de WhatsApp con IA
+Automatización de conversaciones mediante inteligencia artificial.
+
+### 🌐 Portafolio Web Full Stack
+Sitio web profesional con frontend moderno y backend integrado.
+
+### 🎮 Aplicaciones Unity y Realidad Virtual
+Experiencias inmersivas desarrolladas con Unity y tecnologías VR.
+
+### 🐳 IA Local y Contenedores
+Implementación y despliegue de modelos de IA local utilizando Docker.
+
+---
+
+## 📈 Actualmente
+
+- 🤖 Explorando Inteligencia Artificial y LLMs Locales
+- 🌐 Construyendo aplicaciones Full Stack modernas
+- 🎮 Desarrollando experiencias inmersivas con Unity
+- 🐳 Trabajando con Docker y automatización de servicios
+
+---
 
 ## 📫 Contacto
 
-- LinkedIn: ...
-- Portafolio: ...
-- Correo: ...
+- 💼 LinkedIn: TU_LINKEDIN
+- 🌐 Portafolio: TU_PORTAFOLIO
+- 📧 Correo: TU_CORREO
 
-<img src="https://github-profile-trophy.vercel.app/?username=Giovapolis&theme=tokyonight" />
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Giovapolis&show_icons=true&theme=tokyonight" />
+  <i>"Transformando ideas en soluciones mediante código."</i>
 </p>
-
-<img src="https://streak-stats.demolab.com?user=Giovapolis&theme=tokyonight" />
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp) 
-![Docker] https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
